@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mreshboboyev" target="blank"><img src="https://img.shields.io/twitter/follow/mreshboboyev?logo=twitter&style=for-the-badge" alt="mreshboboyev" /></a> </p>
 
-- 🔭 I’m currently working on **Gatherly**
+- 🔭 I’m currently working on **Gravy**
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
