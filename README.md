@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **InspireEd (Learning Management System)** 
 
-- 🌱 I’m currently learning **ASP.NET Core (Domain Driver Design)**
+- 🌱 I’m currently learning **ASP.NET Core (Domain Driven Design and Event Driven)**
 
 - 👯 I’m looking to collaborate on **.NET development**
 
