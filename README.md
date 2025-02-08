@@ -11,9 +11,9 @@
 </p>
 
 
-- 🔭 I’m currently working on **InspireEd (Learning Management System)** 
+- 🔭 I’m currently working on **PayVerse (FinTech Solution)** 
 
-- 🌱 I’m currently learning **ASP.NET Core (Domain Driven Design and Event Driven)**
+- 🌱 I’m currently learning **ASP.NET Core (Domain Driven Design)**
 
 - 👯 I’m looking to collaborate on **.NET development**
 
