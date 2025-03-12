@@ -11,14 +11,21 @@ jobs:
     name: Generate 3D Profile
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          token: ${{ secrets.PROFILE_TOKEN }}  # Use PAT instead of default token
+          
+      - name: Generate 3D Contribution Profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
+          git add profile-3d-contrib/
           git commit -m "Generated 3D Contribution Profile"
-          git push
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}  # Use PAT for push
