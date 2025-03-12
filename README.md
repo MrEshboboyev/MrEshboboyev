@@ -223,7 +223,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 <!-- 3D Contribution Calendar -->
 <p align="center">
-  <img width="800em" src="https://github.com/avgupta456/github-readme-stats-by-issue/blob/master/renders/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" />
+  <img width="800em" src="https://raw.githubusercontent.com/MrEshboboyev/MrEshboboyev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </p>
 
 <!-- Visit counter with custom design -->
