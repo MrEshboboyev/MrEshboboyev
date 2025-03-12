@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Diyorbek+Eshboboyev;Passionate+Backend+Developer;.NET+Specialist;API+Expert&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=HHHi+there!+I'm+Diyorbek+Eshboboyev;Passionate+Backend+Developer;.NET+Specialist;API+Expert&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <!-- Custom banner image -->
@@ -20,7 +20,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mreshboboyev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
+<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/MrEshboboyev/MrEshboboyev/main/assets/developer-isometric.svg"/>
 
 <!-- Badges section -->
 <p align="left">
@@ -40,7 +40,7 @@ const diyorbek = {
   learning: ["ASP.NET Core", "Domain Driven Design", "Microservices"],
   lookingToCollaborate: ".NET development",
   askMeAbout: ["Backend", "API", "Software Architecture"],
-  reachMe: "mreshbobov@gmail.com",
+  reachMe: "mreshboboyev@gmail.com",
   funFact: "I can debug with my eyes closed! 🧙‍♂️"
 };
 ```
@@ -99,6 +99,9 @@ const diyorbek = {
 ## 🌐 Connect with me
 
 <p align="center">
+  <a href="mailto:mreshboboyev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://t.me/MrEshboboyev" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
@@ -127,15 +130,8 @@ const diyorbek = {
   <a href="https://github.com/MrEshboboyev/PayVerse">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreshboboyev&repo=PayVerse&theme=radical&hide_border=true" alt="PayVerse Repo"/>
   </a>
-  <a href="https://github.com/MrEshboboyev/DotNetProjects">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreshboboyev&repo=DotNetProjects&theme=radical&hide_border=true" alt=".NET Projects Repo"/>
-  </a>
-</p>
-
-<!-- Spotify Now Playing -->
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://novatorem-ruddy-ten.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
+  <a href="https://github.com/MrEshboboyev/Gravy">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreshboboyev&repo=Gravy&theme=radical&hide_border=true" alt="Gravy Repo"/>
   </a>
 </p>
 
