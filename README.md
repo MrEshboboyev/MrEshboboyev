@@ -20,8 +20,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mreshboboyev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </p>
 
-<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/MrEshboboyev/MrEshboboyev/main/assets/developer-isometric.svg"/>
-
 <!-- Badges section -->
 <p align="left">
   <a href="https://www.linkedin.com/in/mreshboboyev/" target="blank">
