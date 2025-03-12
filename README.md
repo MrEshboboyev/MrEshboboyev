@@ -142,7 +142,78 @@ const diyorbek = {
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-<!-- This section will be automatically updated by the Waka Readme Stats GitHub Action -->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 77.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 814 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 64 Public Repositories 
+ > 
+> 🔑 61 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+🌆 Daytime                1456 commits        ████████████░░░░░░░░░░░░░   46.62 % 
+🌃 Evening                1237 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
+🌙 Night                  67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Tuesday                  477 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Wednesday                467 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Thursday                 468 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Friday                   372 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Saturday                 488 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Sunday                   445 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tashkent
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       121 repos           ████████████████████████░   96.80 % 
+JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Q#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MrEshboboyev/MrEshboboyev/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/03/2025 09:12:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- Snake animation -->
