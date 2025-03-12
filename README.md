@@ -34,6 +34,12 @@
 
 ## 👨‍💻 About Me
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+" />
+  <img src="https://img.shields.io/badge/Current-PayVerse%20(FinTech)-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Microservices%20%7C%20DDD-green?style=for-the-badge" />
+</div>
+
 ```javascript
 const diyorbek = {
   currentWork: "PayVerse (FinTech Solution)",
