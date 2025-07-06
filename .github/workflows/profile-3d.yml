@@ -2,7 +2,7 @@ name: GitHub 3D Profile
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 18 * * *" # Har kuni 23:00 Tashkent vaqti (UTC+5)
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate 3D Profile
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
         with:
-          token: ${{ secrets.PROFILE_TOKEN }}  # Use PAT instead of default token
-          
+          token: ${{ secrets.PROFILE_TOKEN }}  # Personal Access Token
+          fetch-depth: 0  # Muhim: To‘liq git tarixi kerak pull uchun
+
       - name: Generate 3D Contribution Profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -24,8 +26,9 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git pull --rebase origin main  # Sync qilish
           git add profile-3d-contrib/
-          git commit -m "Generated 3D Contribution Profile"
+          git commit -m "Generated 3D Contribution Profile" || echo "Nothing to commit"
           git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}  # Use PAT for push
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
