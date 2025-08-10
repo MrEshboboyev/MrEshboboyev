@@ -28,7 +28,6 @@ jobs:
           git config user.email github-actions@github.com
           git add profile-3d-contrib/ # Avval o'zgartirilgan fayllarni indeksga qo'shish
           git commit -m "Generated 3D Contribution Profile" || echo "Nothing to commit"
-          git pull --rebase origin main
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
