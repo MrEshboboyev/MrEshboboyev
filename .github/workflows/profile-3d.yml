@@ -28,12 +28,11 @@ jobs:
           git config user.email github-actions@github.com
           git add profile-3d-contrib/
           git commit -m "Generated 3D Contribution Profile" || echo "Nothing to commit"
-          # 🌟 MUHIM YECHIM 1: Push qilishdan oldin tortib olish va birlashtirish
-          # Agar remote'da o'zgarish bo'lsa, ularni avval olib, local commitni ustiga qo'yadi.
+          
+          # 1. Remote'dagi o'zgarishlarni tortib olish va rebase qilish (non-fast-forwardni hal qilish)
+          # Bu qadam kerak, chunki u sizning logingizda ishlagan
           git pull --rebase origin main
           
-          # 🌟 MUHIM YECHIM 2: Push qilishda aniq token orqali avtorizatsiya
-          # Bu "origin main" ni ishlatishda avtorizatsiya muammolarining oldini oladi.
+          # 2. 🌟 ENG MUHIM QADAM: Tokenni to'g'ridan-to'g'ri URL orqali uzatish
+          # Bu "github-actions[bot]" ning 403 xatosini hal qiladi
           git push https://${{ secrets.PROFILE_TOKEN }}@github.com/${{ github.repository }} main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN
