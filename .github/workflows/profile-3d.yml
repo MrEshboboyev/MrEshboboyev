@@ -28,7 +28,12 @@ jobs:
           git config user.email github-actions@github.com
           git add profile-3d-contrib/
           git commit -m "Generated 3D Contribution Profile" || echo "Nothing to commit"
-          git pull --rebase origin main --autostash
-          git push origin main
+          # 🌟 MUHIM YECHIM 1: Push qilishdan oldin tortib olish va birlashtirish
+          # Agar remote'da o'zgarish bo'lsa, ularni avval olib, local commitni ustiga qo'yadi.
+          git pull --rebase origin main
+          
+          # 🌟 MUHIM YECHIM 2: Push qilishda aniq token orqali avtorizatsiya
+          # Bu "origin main" ni ishlatishda avtorizatsiya muammolarining oldini oladi.
+          git push https://${{ secrets.PROFILE_TOKEN }}@github.com/${{ github.repository }} main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN
