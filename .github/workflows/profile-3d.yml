@@ -11,10 +11,10 @@ jobs:
     name: Generate 3D Profile
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
-          token: ${{ secrets.PROFILE_TOKEN }}  # Personal Access Token
-          fetch-depth: 0  # Muhim: To‘liq git tarixi kerak pull uchun
+          token: ${{ secrets.GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN
+          fetch-depth: 0
 
       - name: Generate 3D Contribution Profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -26,8 +26,8 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add profile-3d-contrib/ # Avval o'zgartirilgan fayllarni indeksga qo'shish
+          git add profile-3d-contrib/
           git commit -m "Generated 3D Contribution Profile" || echo "Nothing to commit"
           git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN
