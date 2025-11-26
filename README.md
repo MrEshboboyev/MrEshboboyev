@@ -1,12 +1,12 @@
 <!-- Header with animated typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=HHHi+there!+I'm+Diyorbek+Eshboboyev;Passionate+Backend+Developer;.NET+Specialist;API+Expert&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Diyorbek+Eshboboyev;Passionate+Backend+Developer;.NET+Specialist;API+Expert&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-<!-- Custom banner image -->
-<p align="center">
+<!-- Animated banner with multiple layers -->
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</p>
+</div>
 
 <!-- Profile views counter with custom badge -->
 <p align="center">
@@ -15,13 +15,13 @@
   <img src="https://img.shields.io/github/stars/mreshboboyev?style=for-the-badge&logo=github&labelColor=black&color=ff3d71" alt="Stars"/>
 </p>
 
-<!-- Trophy display -->
+<!-- Trophy display with animation -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mreshboboyev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 </p>
 
-<!-- Badges section -->
-<p align="left">
+<!-- Animated badges section -->
+<p align="center">
   <a href="https://www.linkedin.com/in/mreshboboyev/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
   </a>
@@ -30,24 +30,49 @@
   </a>
 </p>
 
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
 ## 👨‍💻 About Me
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+" />
-  <img src="https://img.shields.io/badge/Current-PayVerse%20(FinTech)-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Microservices%20%7C%20DDD-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-.NET%20Technologies-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices%20|%20DDD-green?style=for-the-badge" />
 </div>
 
-```javascript
+### 🎯 Technical Expertise
+
+As a passionate backend developer, I specialize in creating robust, scalable applications using .NET technologies. My expertise spans across multiple domains of software development with a strong focus on delivering high-quality solutions.
+
+### 🚀 Core Competencies
+
+- **Backend Development**: Mastery in C#, ASP.NET Core, RESTful APIs, and gRPC services
+- **Cloud & DevOps**: Extensive experience with Microsoft Azure, CI/CD pipelines, and infrastructure as code
+- **Database Systems**: Proficient in SQL Server, PostgreSQL, and MongoDB for diverse data storage requirements
+- **Modern Architecture**: Deep understanding of Domain-Driven Design (DDD) and microservices patterns
+- **Container Technologies**: Skilled in Docker and Kubernetes for scalable application deployment
+- **Software Engineering**: Strong foundation in design patterns, SOLID principles, and clean code practices
+
+### 🛠️ Technical Skills Overview
+
+```
 const diyorbek = {
-  currentWork: "PayVerse (FinTech Solution)",
-  learning: ["ASP.NET Core", "Domain Driven Design", "Microservices"],
-  lookingToCollaborate: ".NET development",
-  askMeAbout: ["Backend", "API", "Software Architecture"],
-  reachMe: "mreshboboyev@gmail.com",
-  funFact: "I can debug with my eyes closed! 🧙‍♂️"
+  primarySkills: ["C#", "ASP.NET Core", "API Development", "Microservices"],
+  databases: ["SQL Server", "PostgreSQL", "MongoDB"],
+  cloudTech: ["Azure", "Docker", "Kubernetes"],
+  architecture: ["DDD", "Clean Architecture", "CQRS"],
+  tools: ["Git", "Terraform", "CI/CD"],
+  methodologies: ["Agile", "Scrum", "TDD"]
 };
 ```
+
+<!-- Animated fire divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c02449.gif" width="100%">
+</p>
 
 ## 🔥 Current Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrEshboboyev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -100,6 +125,11 @@ const diyorbek = {
   </p>
 </details>
 
+<!-- Animated coding divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284122-232b341b-0c25-404d-90d4-ef589c826e61.gif" width="100%">
+</p>
+
 ## 🌐 Connect with me
 
 <p align="center">
@@ -139,91 +169,10 @@ const diyorbek = {
   </a>
 </p>
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2026%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 92.8 kB Used in GitHub's Storage 
- > 
-> 🏆 2,108 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 78 Public Repositories 
- > 
-> 🔑 80 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                440 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-🌆 Daytime                2022 commits        ███████████░░░░░░░░░░░░░░   45.07 % 
-🌃 Evening                1907 commits        ███████████░░░░░░░░░░░░░░   42.51 % 
-🌙 Night                  117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   593 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Tuesday                  683 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Wednesday                676 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Thursday                 655 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Friday                   573 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Saturday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Sunday                   630 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tashkent
-
-💬 Programming Languages: 
-C#                       24 hrs 53 mins      █████████████████████░░░░   82.33 % 
-Binary                   3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-XML                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-
-🔥 Editors: 
-Visual Studio            30 hrs 13 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Kvadrat                  26 hrs 24 mins      ██████████████████████░░░   87.37 % 
-aspect-oriented-programmi2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-AspectOrientedProgramming56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-routing-templates        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Template                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-💻 Operating System: 
-Windows                  30 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       148 repos           ████████████████████████░   94.87 % 
-JavaScript               3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Handlebars               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Q#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/MrEshboboyev/MrEshboboyev/main/assets/bar_graph.png)
-
-
- Last Updated on 10/10/2025 01:03:39 UTC
-<!--END_SECTION:waka-->
+<!-- Animated project showcase -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284133-b76dfba8-5133-4252-ae95-f9ac5a9dedb5.gif" width="100%">
+</p>
 
 <!-- Snake animation -->
 <p align="center">
@@ -235,12 +184,17 @@ Q#                       1 repo              ░░░░░░░░░░░�
   <img width="800em" src="https://raw.githubusercontent.com/MrEshboboyev/MrEshboboyev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </p>
 
-<!-- Visit counter with custom design -->
+<!-- Animated footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</p>
+
+<!-- Visitor counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/{mreshboboyev}/count.svg" alt="Visitor Count" />
 </p>
 
-<!-- Footer -->
+<!-- Animated signature -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+🌟;Have+a+great+day!+😊&center=true&width=300&height=30&color=00bfff&vCenter=true&size=18">
 </p>
