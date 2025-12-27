@@ -5,6 +5,9 @@ on:
     - cron: "0 18 * * *" # Har kuni 23:00 Tashkent vaqti (UTC+5)
   workflow_dispatch:
 
+permissions:
+  contents: write  # Bu qatlam GitHub Actions-ga fayllarni o'zgartirish ruxsatini beradi
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,7 +16,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Use the default GITHUB_TOKEN
           fetch-depth: 0
 
       - name: Generate 3D Contribution Profile
@@ -27,12 +29,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add profile-3d-contrib/
-          git commit -m "Generated 3D Contribution Profile" || echo "Nothing to commit"
+          git commit -m "Generated 3D Contribution Profile" || exit 0
           
-          # 1. Remote'dagi o'zgarishlarni tortib olish va rebase qilish (non-fast-forwardni hal qilish)
-          # Bu qadam kerak, chunki u sizning logingizda ishlagan
           git pull --rebase origin main
-          
-          # 2. 🌟 ENG MUHIM QADAM: Tokenni to'g'ridan-to'g'ri URL orqali uzatish
-          # Bu "github-actions[bot]" ning 403 xatosini hal qiladi
-          git push https://${{ secrets.PROFILE_TOKEN }}@github.com/${{ github.repository }} main
+          git push origin main
