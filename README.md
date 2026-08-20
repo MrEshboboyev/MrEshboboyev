@@ -1,200 +1,84 @@
-<!-- Header with animated typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Diyorbek+Eshboboyev;Passionate+Backend+Developer;.NET+Specialist;API+Expert&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=22">
-</p>
-
-<!-- Animated banner with multiple layers -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
 
-<!-- Profile views counter with custom badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mreshboboyev&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mreshboboyev?style=for-the-badge&logo=github&labelColor=black&color=20a0ff" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/mreshboboyev?style=for-the-badge&logo=github&labelColor=black&color=ff3d71" alt="Stars"/>
-</p>
+# Diyorbek Eshboboyev
 
-<!-- Trophy display with animation -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mreshboboyev&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Diyorbek+Eshboboyev+%F0%9F%91%8B;Backend+Engineer+%7C+.NET+Specialist;Building+Scalable+Cloud-Native+Systems;Domain-Driven+Design+%26+Clean+Architecture)](https://github.com/MrEshboboyev)
 
-<!-- Animated badges section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mreshboboyev/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  <a href="https://linkedin.com/in/mreshboboyev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://mreshboboyev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=safari" alt="Portfolio" />
-  </a>
-</p>
-
-<!-- Animated divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-## 👨‍💻 About Me
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+" />
-  <img src="https://img.shields.io/badge/Specialization-.NET%20Technologies-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Microservices%20|%20DDD-green?style=for-the-badge" />
-</div>
-
-### 🎯 Technical Expertise
-
-As a passionate backend developer, I specialize in creating robust, scalable applications using .NET technologies. My expertise spans across multiple domains of software development with a strong focus on delivering high-quality solutions.
-
-### 🚀 Core Competencies
-
-- **Backend Development**: Mastery in C#, ASP.NET Core, RESTful APIs, and gRPC services
-- **Cloud & DevOps**: Extensive experience with Microsoft Azure, CI/CD pipelines, and infrastructure as code
-- **Database Systems**: Proficient in SQL Server, PostgreSQL, and MongoDB for diverse data storage requirements
-- **Modern Architecture**: Deep understanding of Domain-Driven Design (DDD) and microservices patterns
-- **Container Technologies**: Skilled in Docker and Kubernetes for scalable application deployment
-- **Software Engineering**: Strong foundation in design patterns, SOLID principles, and clean code practices
-
-### 🛠️ Technical Skills Overview
-
-```
-const diyorbek = {
-  primarySkills: ["C#", "ASP.NET Core", "API Development", "Microservices"],
-  databases: ["SQL Server", "PostgreSQL", "MongoDB"],
-  cloudTech: ["Azure", "Docker", "Kubernetes"],
-  architecture: ["DDD", "Clean Architecture", "CQRS"],
-  tools: ["Git", "Terraform", "CI/CD"],
-  methodologies: ["Agile", "Scrum", "TDD"]
-};
-```
-
-<!-- Animated fire divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c02449.gif" width="100%">
-</p>
-
-## 🔥 Current Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrEshboboyev&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mreshboboyev&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mreshboboyev&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
-
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mreshboboyev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-## 🚀 Skills 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-<details>
-  <summary>🛠️ Detailed Tech Stack</summary>
-  
-### Backend & Cloud
-  <p>
-    <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-    <img src="https://img.shields.io/badge/Entity_Framework-5C2D91?style=flat-square&logo=.net&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azure-functions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
-    <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" />
-  </p>
-  
-### DevOps & Tools
-  <p>
-    <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  </p>
-</details>
-
-<!-- Animated coding divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284122-232b341b-0c25-404d-90d4-ef589c826e61.gif" width="100%">
-</p>
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="mailto:mreshboboyev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://t.me/MrEshboboyev" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://twitter.com/mreshboboyev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="mailto:mreshboboyev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/mreshboboyev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://komarev.com/ghpvc/?username=mreshboboyev&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Software Engineer** specializing in **backend development, high-throughput APIs, and distributed systems**. My primary focus is architecting resilient, production-grade applications using the **.NET ecosystem** and cloud-native technologies.
+
+- 🔭 **Focus**: Scalable microservices, distributed caching, and clean software architecture.
+- 🏛️ **Architecture & Practices**: Domain-Driven Design (DDD), CQRS, Clean Architecture, SOLID principles, TDD.
+- ⚡ **Core Stack**: C#, ASP.NET Core, .NET Aspire, Entity Framework Core, Azure, Docker, Kubernetes.
+- 🚀 **Currently Exploring**: AI vector search & embeddings in .NET, event-driven messaging, and performance optimization.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,kubernetes,postgres,redis,mongodb,git,githubactions,postman" alt="Tech Stack Icons" />
   </a>
-</p>
+</div>
 
-## 🏆 GitHub Metrics
+<br/>
 
-<p align="center">
-  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mreshboboyev&theme=radical" />
-</p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Frameworks** | C#, ASP.NET Core, .NET Aspire, Entity Framework Core, JavaScript / TypeScript |
+| **Architecture & APIs** | Clean Architecture, Domain-Driven Design (DDD), CQRS, REST APIs, gRPC, GraphQL |
+| **Databases & Caching** | PostgreSQL, Microsoft SQL Server, MongoDB, Redis, Distributed Caching |
+| **Cloud & DevOps** | Microsoft Azure, Docker, Kubernetes, CI/CD (GitHub Actions), Terraform |
+| **Engineering Tools** | Visual Studio, JetBrains Rider, Postman, Git |
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mreshboboyev&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mreshboboyev&theme=radical" />
-</p>
+---
 
-## 🌟 Featured Projects
+### 🚀 Highlighted Repositories
 
-<p align="center">
-  <a href="https://github.com/MrEshboboyev/PayVerse">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreshboboyev&repo=PayVerse&theme=radical&hide_border=true" alt="PayVerse Repo"/>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**microservices-template**](https://github.com/MrEshboboyev/microservices-template) | Pre-configured production-ready microservices architecture with API Gateway, Auth, and observability. | `.NET Core`, `Microservices`, `Docker` |
+| [**url-shortener-with-aspire**](https://github.com/MrEshboboyev/url-shortener-with-aspire) | Cloud-native URL shortening service leveraging .NET Aspire, Redis caching, and PostgreSQL. | `.NET Aspire`, `Redis`, `PostgreSQL` |
+| [**distributed-caching-system**](https://github.com/MrEshboboyev/distributed-caching-system-with-cache-invalidation) | High-performance distributed caching implementation with automated cache invalidation strategies. | `C#`, `Redis`, `Cache Invalidation` |
+| [**multi-factor-authentification**](https://github.com/MrEshboboyev/multi-factor-authentification) | Robust Multi-Factor Authentication (MFA) system built strictly following Domain-Driven Design principles. | `ASP.NET Core`, `DDD`, `Security` |
+| [**vector-search-dotnet**](https://github.com/MrEshboboyev/mongodb-atlas-vector-search-dotnet) | AI-powered semantic search & recommendation engine using vector embeddings in .NET. | `MongoDB Atlas`, `Vector Search`, `.NET` |
+
+---
+
+### 📊 GitHub Activity & Contributions
+
+<div align="center">
+  <a href="https://github.com/MrEshboboyev">
+    <img src="https://streak-stats.demolab.com?user=MrEshboboyev&theme=tokyonight&hide_border=true&border_radius=8&background=0D1117" alt="GitHub Streak Stats" />
   </a>
-  <a href="https://github.com/MrEshboboyev/Gravy">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mreshboboyev&repo=Gravy&theme=radical&hide_border=true" alt="Gravy Repo"/>
-  </a>
-</p>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/MrEshboboyev/MrEshboboyev/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+</div>
 
-<!-- Animated project showcase -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284133-b76dfba8-5133-4252-ae95-f9ac5a9dedb5.gif" width="100%">
-</p>
+---
 
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<!-- 3D Contribution Calendar -->
-<p align="center">
-  <img width="800em" src="https://raw.githubusercontent.com/MrEshboboyev/MrEshboboyev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
-</p>
-
-<!-- Animated footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</p>
-
-<!-- Visitor counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{mreshboboyev}/count.svg" alt="Visitor Count" />
-</p>
-
-<!-- Animated signature -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!+🌟;Have+a+great+day!+😊&center=true&width=300&height=30&color=00bfff&vCenter=true&size=18">
-</p>
+<div align="center">
+  <sub>Designed with minimalism • Powered by GitHub Actions • Last updated August 2026</sub>
+</div>
